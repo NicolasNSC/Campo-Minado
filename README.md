@@ -1,4 +1,4 @@
-# campo-minado
+# Campo Minado
 Projeto criado com base nos fundamentos de meus estudos em Java, utilizando práticas e conceitos em:
 • Orientação a objetos
 • Programação funcional 
